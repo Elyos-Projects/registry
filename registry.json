@@ -1,0 +1,36 @@
+{
+  "version": "0.1.0",
+  "updated": "2026-06-21T00:00:00Z",
+  "projects": [
+    {
+      "name": "health-info-translations",
+      "repo": "Elyos-Projects/health-info-translations",
+      "description": "Translate vetted public-health information into low-resource languages.",
+      "domain": ["translation", "public-health"],
+      "priority": "high",
+      "openTasks": 1,
+      "tags": ["verified-need"],
+      "definitionOfShipped": "A reviewed translation set delivered to the requesting NGO."
+    },
+    {
+      "name": "oer-math",
+      "repo": "Elyos-Projects/oer-math",
+      "description": "Open educational resources (math) for under-funded schools.",
+      "domain": ["education", "oer"],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": ["good-first-deed", "verified-need"],
+      "definitionOfShipped": "Practice sets published openly and handed to the partner school district."
+    },
+    {
+      "name": "civic-open-data",
+      "repo": "Elyos-Projects/civic-open-data",
+      "description": "Use open public datasets to produce new analyses and derivative open datasets.",
+      "domain": ["public-data", "civic"],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": ["verified-need"],
+      "definitionOfShipped": "A published derivative dataset + analysis with source provenance and license."
+    }
+  ]
+}
