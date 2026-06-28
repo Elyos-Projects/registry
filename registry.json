@@ -1,36 +1,187 @@
 {
-  "version": "0.1.0",
-  "updated": "2026-06-21T00:00:00Z",
+  "version": "0.2.0",
+  "updated": "2026-06-28T00:00:00Z",
   "projects": [
     {
       "name": "health-info-translations",
       "repo": "Elyos-Projects/health-info-translations",
       "description": "Translate vetted public-health information into low-resource languages.",
-      "domain": ["translation", "public-health"],
+      "domain": [
+        "translation",
+        "public-health"
+      ],
       "priority": "high",
       "openTasks": 1,
-      "tags": ["verified-need"],
+      "tags": [
+        "verified-need"
+      ],
       "definitionOfShipped": "A reviewed translation set delivered to the requesting NGO."
     },
     {
       "name": "oer-math",
       "repo": "Elyos-Projects/oer-math",
       "description": "Open educational resources (math) for under-funded schools.",
-      "domain": ["education", "oer"],
+      "domain": [
+        "education",
+        "oer"
+      ],
       "priority": "medium",
       "openTasks": 1,
-      "tags": ["good-first-deed", "verified-need"],
+      "tags": [
+        "good-first-deed",
+        "verified-need"
+      ],
       "definitionOfShipped": "Practice sets published openly and handed to the partner school district."
     },
     {
       "name": "civic-open-data",
       "repo": "Elyos-Projects/civic-open-data",
       "description": "Use open public datasets to produce new analyses and derivative open datasets.",
-      "domain": ["public-data", "civic"],
+      "domain": [
+        "public-data",
+        "civic"
+      ],
       "priority": "medium",
       "openTasks": 1,
-      "tags": ["verified-need"],
+      "tags": [
+        "verified-need"
+      ],
       "definitionOfShipped": "A published derivative dataset + analysis with source provenance and license."
+    },
+    {
+      "name": "vital-info-translations",
+      "repo": "Elyos-Projects/vital-info-translations",
+      "description": "Translate vetted public-health & safety guidance into low-resource languages.",
+      "domain": [
+        "translation",
+        "public-health"
+      ],
+      "priority": "high",
+      "openTasks": 1,
+      "tags": [
+        "public-health",
+        "needs-partner"
+      ],
+      "definitionOfShipped": "A reviewed, correctly-licensed translation set delivered to and adopted by a partner NGO/health authority."
+    },
+    {
+      "name": "a11y-alttext-commons",
+      "repo": "Elyos-Projects/a11y-alttext-commons",
+      "description": "Alt-text & image descriptions for openly-licensed media, contributed upstream.",
+      "domain": [
+        "accessibility",
+        "open-culture"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "accessibility",
+        "good-first-deed",
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Reviewed descriptions merged upstream into open collections (Commons structured data, open textbooks)."
+    },
+    {
+      "name": "open-data-datasheets",
+      "repo": "Elyos-Projects/open-data-datasheets",
+      "description": "Documentation & metadata that makes public open datasets reusable.",
+      "domain": [
+        "public-data",
+        "open-science"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "public-data",
+        "needs-partner"
+      ],
+      "definitionOfShipped": "A datasheet + machine-readable metadata accepted onto a dataset's portal, with verified license + provenance."
+    },
+    {
+      "name": "proper-prepper",
+      "repo": "Elyos-Projects/proper-prepper",
+      "description": "Offline-first, ad-free disaster-preparedness toolkit (PWA) + localized content.",
+      "domain": [
+        "public-safety",
+        "software"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "software",
+        "public-safety",
+        "needs-partner"
+      ],
+      "definitionOfShipped": "A deployed, offline-capable toolkit adopted/endorsed by a partner emergency-management org."
+    },
+    {
+      "name": "tool-atlas",
+      "repo": "Elyos-Projects/tool-atlas",
+      "description": "An open, structured atlas of tools and how to use them safely.",
+      "domain": [
+        "education",
+        "practical-skills"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "education",
+        "good-first-deed",
+        "needs-partner"
+      ],
+      "definitionOfShipped": "A published atlas with peer-reviewed entries adopted by an education/makerspace partner; structured data under CC-BY."
+    },
+    {
+      "name": "beacon-game",
+      "repo": "Elyos-Projects/beacon-game",
+      "description": "An original game-with-a-purpose: play produces verified humanitarian/science image labels.",
+      "domain": [
+        "software",
+        "humanitarian"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "software",
+        "game",
+        "needs-partner"
+      ],
+      "definitionOfShipped": "A deployed open-source game that has produced verified labels accepted by a real data partner."
+    },
+    {
+      "name": "revolutionary-patriots-kg",
+      "repo": "Elyos-Projects/revolutionary-patriots-kg",
+      "description": "Open, linked knowledge graph of American Revolution patriots, built from public-domain sources.",
+      "domain": [
+        "open-history",
+        "public-data"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "open-history",
+        "needs-partner"
+      ],
+      "definitionOfShipped": "A published, openly-licensed, queryable graph with provenance on every assertion, adopted/cited by a partner."
+    },
+    {
+      "name": "public-official-guide",
+      "repo": "Elyos-Projects/public-official-guide",
+      "description": "Non-partisan AI guide helping public officials fulfill duties, serve constituents, and govern ethically.",
+      "domain": [
+        "civic",
+        "governance",
+        "software"
+      ],
+      "priority": "high",
+      "openTasks": 1,
+      "tags": [
+        "software",
+        "civic",
+        "high-risk",
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Adopted by a pilot office and used to improve a constituent outcome / fulfill a duty, with guardrails verified by an independent ethics reviewer."
     }
   ]
 }
