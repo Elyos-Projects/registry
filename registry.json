@@ -815,6 +815,90 @@
         "needs-partner"
       ],
       "definitionOfShipped": "comprehension-passed at its threshold (safety: expert-signed), culturally cleared, fully metadata'd/attributed, and exported in all formats. The deed is **delivered** when, with a secured partner, that symbol reaches **real use by a beneficiary** (installed signage / live AAC boa"
+    },
+    {
+      "name": "open-spending-explainers",
+      "repo": "Elyos-Projects/open-spending-explainers",
+      "description": "Public budgets and contracts are, in principle, open. In practice they are inaccessible: hundreds of pages of fund-accounting tables, inconsistent fiscal years, nominal-vs-real confusion, and contract",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "| Corrections handled transparently | n/a | 100% of figure corrections logged in a public erratum changelog within the correction SLA | Corrections log audit |"
+    },
+    {
+      "name": "citizen-science-pipelines",
+      "repo": "Elyos-Projects/citizen-science-pipelines",
+      "description": "Citizen-science projects — biodiversity observation networks, community air-quality and water-quality monitoring, phenology and weather logging, transcription and astronomy classification efforts — co",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "citizen-science project to clean/validate/de-identify a real dataset**, where the output is **accepted and used** by that project, the run is **reproducible** (independent replay verified), provenance is published, and the privacy/sensitivity gate passed with expert sign-off wher"
+    },
+    {
+      "name": "open-map-gaps",
+      "repo": "Elyos-Projects/open-map-gaps",
+      "description": "In large parts of the world the basic map does not exist. Buildings, roads, health facilities, schools, and water points that humanitarian responders need to plan a vaccination campaign, route an ambu",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "and merged into OSM (not reverted)** under ODbL — with imagery/source licensing verified, the do-no-harm screen signed, the effort registered as Organised Editing, and the outcome (validated count, pass rate) recorded by the Steward. **Ideally, plus a verified beneficiary use.** "
+    },
+    {
+      "name": "local-history-stubs",
+      "repo": "Elyos-Projects/local-history-stubs",
+      "description": "local-history-stubs",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "≥ 200 sourced stubs across ≥ 3 regions/sources; **100% per-claim provenance**; a fresh stratified citation audit ≥ 95% verified; **zero** un-cleared images or unsourced claims; every flagged/ high-sensitivity stub carries the required sign-off; **a named steward has adopted the c"
+    },
+    {
+      "name": "genealogy-public-records",
+      "repo": "Elyos-Projects/genealogy-public-records",
+      "description": "Family history is one of the most popular research pursuits in the world, yet the structured, machine-readable data that powers it lives almost entirely inside **proprietary, paywalled databases** — A",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "corpus with: **100% provenance and 100% evidence-rationale** on assertions; **deceased-only** with a clean deceased-determination audit and **zero confirmed living persons**; **no SSN/DMF/genetic** fields; seeded from ≥4 approved public-domain sources; passing all CI gates; GEDCO"
+    },
+    {
+      "name": "fact-check-toolkit",
+      "repo": "Elyos-Projects/fact-check-toolkit",
+      "description": "The information ecosystem is flooded with claims faster than any newsroom, library, classroom, or civic group can check them, and the people best placed to check — local journalists, librarians, educa",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "demonstrably completes real verifications with transparent, license-clean provenance and the non-partisan integrity guarantees independently verified — never measured by *what verdicts were reached*."
     }
   ]
 }
