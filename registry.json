@@ -899,6 +899,90 @@
         "needs-partner"
       ],
       "definitionOfShipped": "demonstrably completes real verifications with transparent, license-clean provenance and the non-partisan integrity guarantees independently verified — never measured by *what verdicts were reached*."
+    },
+    {
+      "name": "oer-science-labs",
+      "repo": "Elyos-Projects/oer-science-labs",
+      "description": "**oer-science-labs** is an open library of **no-/low-cost, hands-on science experiment guides** for K–12 and early-college learners, each **aligned to curriculum standards** and **safety-reviewed for ",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Goals and non-goals"
+    },
+    {
+      "name": "open-coding-curriculum",
+      "repo": "Elyos-Projects/open-coding-curriculum",
+      "description": "**open-coding-curriculum** is an open library of beginner programming lessons paired with **graded exercises and runnable examples**, spanning multiple languages (Python first, then JavaScript, then a",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "**Positioning (one line).** open-coding-curriculum is the *open, runnable, auto-graded* path from > \"never written a line of code\" to \"can read and write small programs\" — original CC-BY lessons, > MIT-licensed runnable examples, and graded exercises whose reference solutions are"
+    },
+    {
+      "name": "civics-exam-prep",
+      "repo": "Elyos-Projects/civics-exam-prep",
+      "description": "Passing a high-stakes exam is often the single gate between a person and citizenship, a diploma, a job, or college. The two exams in scope are *gateways for exactly the people least able to pay for pr",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "learners use it to prepare, with accuracy/non-partisanship independently verified and at least the readiness-improvement target met — not merely a merged dataset."
+    },
+    {
+      "name": "open-flashcards",
+      "repo": "Elyos-Projects/open-flashcards",
+      "description": "Spaced repetition is one of the few learning techniques with strong, replicated evidence behind it — and Anki is its most widely used open-source vehicle. Yet the public deck ecosystem has a quiet int",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "installable by learners**, every card is **accuracy-signed-off** (and expert-signed-off where high risk) with **complete attribution + provenance**, the deck builds **deterministically** from version-controlled JSON, and — where possible — a **beneficiary (educator/learner) has v"
+    },
+    {
+      "name": "financial-literacy-open",
+      "repo": "Elyos-Projects/financial-literacy-open",
+      "description": "Low financial literacy is widespread and consequential: people pay avoidable fees and interest, fall for scams and predatory products, lack emergency savings, and carry debt they do not understand — a",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "demonstrably improving) requires a real delivery partner."
+    },
+    {
+      "name": "climate-adaptation-guides",
+      "repo": "Elyos-Projects/climate-adaptation-guides",
+      "description": "**climate-adaptation-guides** is an open commons of **practical, region-specific, evidence-based climate-adaptation and resilience playbooks** — step-by-step \"how a community actually does this\" guide",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Goals and non-goals"
     }
   ]
 }
