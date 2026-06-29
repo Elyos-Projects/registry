@@ -383,6 +383,102 @@
         "needs-partner"
       ],
       "definitionOfShipped": "Merged locale PRs upstream; NGO tools localized."
+    },
+    {
+      "name": "public-domain-translations",
+      "repo": "Elyos-Projects/public-domain-translations",
+      "description": "Translate public-domain literature into low-resource languages; PD sources verified; outputs openly licensed.",
+      "domain": [
+        "translation",
+        "culture",
+        "education"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "translation",
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Public-domain works translated + published openly; adopted by communities/libraries."
+    },
+    {
+      "name": "translation-memory-commons",
+      "repo": "Elyos-Projects/translation-memory-commons",
+      "description": "Shared open translation-memory + glossary infrastructure reused across Elyos translation projects.",
+      "domain": [
+        "translation",
+        "software"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "translation",
+        "infrastructure"
+      ],
+      "definitionOfShipped": "Reusable open TM/glossary adopted by multiple translation projects."
+    },
+    {
+      "name": "open-pronunciation-audio",
+      "repo": "Elyos-Projects/open-pronunciation-audio",
+      "description": "Open pronunciation audio + IPA across languages, with provenance + speaker consent.",
+      "domain": [
+        "language",
+        "accessibility"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "language",
+        "good-first-deed"
+      ],
+      "definitionOfShipped": "Open pronunciation library adopted by learners/dictionaries."
+    },
+    {
+      "name": "sign-glossary",
+      "repo": "Elyos-Projects/sign-glossary",
+      "description": "Open video/illustrated glossary of signs; Deaf-community reviewed; consent + attribution.",
+      "domain": [
+        "accessibility",
+        "language"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "accessibility",
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Reviewed sign glossary adopted by Deaf orgs/educators."
+    },
+    {
+      "name": "easy-read-plus",
+      "repo": "Elyos-Projects/easy-read-plus",
+      "description": "Plain-language easy-read + dyslexia-friendly versions of essential public information.",
+      "domain": [
+        "accessibility",
+        "civic"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "accessibility"
+      ],
+      "definitionOfShipped": "Easy-read/dyslexia-friendly versions adopted by agencies/libraries."
+    },
+    {
+      "name": "heritage-recipes-open",
+      "repo": "Elyos-Projects/heritage-recipes-open",
+      "description": "Preserve traditional/regional recipes as open structured data; attribution + community consent.",
+      "domain": [
+        "culture",
+        "food"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "culture",
+        "good-first-deed"
+      ],
+      "definitionOfShipped": "Open recipe dataset adopted; community-attributed."
     }
   ]
 }
