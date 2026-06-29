@@ -1151,6 +1151,90 @@
         "needs-partner"
       ],
       "definitionOfShipped": "(1) was produced by independent, credit-sized chunks merged map-reduce to a **bit-identical** single-host result; (2) passes the full **HARD RULE** (dual computation + BBP spot-check + per-chunk recompute + reference cross-check + guard-digit analysis); (3) is published as an **o"
+    },
+    {
+      "name": "ewing-literature-corpus",
+      "repo": "Elyos-Projects/ewing-literature-corpus",
+      "description": "Ewing sarcoma research is published across thousands of articles, but the knowledge is locked in unstructured prose, inconsistent terminology, and paywalls. Researchers — especially the small labs and",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "passed the license + PII gate with a committed artifact; (2) every accepted assertion passes the automated groundedness check and carries required-tier review sign-off (domain reviewer for medium-risk assertions); (3) an eval run against the gold set meets the quality targets; (4"
+    },
+    {
+      "name": "ewing-expression-reanalysis",
+      "repo": "Elyos-Projects/ewing-expression-reanalysis",
+      "description": "Ewing Sarcoma is a rare, aggressive bone-and-soft-tissue cancer that mostly strikes children, teenagers, and young adults. It is driven in ~85% of cases by the **EWSR1-FLI1** fusion oncogene (and in m",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "design (§8)."
+    },
+    {
+      "name": "ewing-fusion-detection-benchmark",
+      "repo": "Elyos-Projects/ewing-fusion-detection-benchmark",
+      "description": "ewing-fusion-detection-benchmark",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "A deed is *shipped* (not merely merged) when: acceptance criteria met **and** CI green **and** the artefact is independently re-runnable from pinned inputs **and** required reviewer/expert sign-off recorded **and** provenance complete **and** the output is published in the open r"
+    },
+    {
+      "name": "ewing-cell-line-catalog",
+      "repo": "Elyos-Projects/ewing-cell-line-catalog",
+      "description": "Ewing sarcoma research runs on a small number of immortalized **cell-line models** (A673, SK-ES-1, RD-ES, TC-71, TC-32, SK-N-MC, EW8, CHLA-9/10/25, and roughly two dozen others). These models, and the",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "the open-data/license/privacy gate (artifact committed); identity is resolved across the three core systems; authentication/misidentification status is present; all assertions are field-level provenanced; the completeness score is ≥ 90/100; the entry validates in CI; the domain r"
+    },
+    {
+      "name": "ewing-pdx-model-index",
+      "repo": "Elyos-Projects/ewing-pdx-model-index",
+      "description": "ewing-pdx-model-index",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "compare, and correctly cite Ewing models from one open catalog, with every record traceable to an open source and license, and a domain reviewer has signed the re-identification review."
+    },
+    {
+      "name": "ewing-single-cell-atlas",
+      "repo": "Elyos-Projects/ewing-single-cell-atlas",
+      "description": "ewing-single-cell-atlas",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "A deed is **shipped** when: acceptance criteria met **+** CI green (schema + provenance + license gates) **+** required human/expert sign-off recorded **+** the artifact is actually published to its public home (CELLxGENE collection / download bundle / Zenodo DOI) **and** linked "
     }
   ]
 }
