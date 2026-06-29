@@ -1571,6 +1571,90 @@
         "needs-partner"
       ],
       "definitionOfShipped": "partner-independent foundations (allow-list, schema, review machinery, a reviewed source-language seed set); translation and delivery are gated behind securing the reviewers and a partner."
+    },
+    {
+      "name": "survivorship-resources",
+      "repo": "Elyos-Projects/survivorship-resources",
+      "description": "Cancer survivors — people who have finished primary treatment — enter a long, under-supported phase of life. They face **late and long-term effects** (cardiotoxicity, second cancers, fertility and end",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "partner distributes the directory to survivors and at least one survivor uses it to reach a real resource — with license-verified sources, recorded provenance, expert-signed-off patient-facing content, region-correctness, and live-verified helplines all in force."
+    },
+    {
+      "name": "question-prompt-lists",
+      "repo": "Elyos-Projects/question-prompt-lists",
+      "description": "`question-prompt-lists` is an Elyos good-deed project that produces **open, freely reusable \"questions to ask your oncologist\" prompt sets**, organized by **topic** (e.g., understanding the diagnosis,",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "met **and** **clinician + advocate sign-off recorded** **and** license/provenance/disclaimer + verified support resources verified **and** readability/accessibility met **and** CI green **and** the set is **adopted by a partner clinic/advocacy org and given to patients** (or publ"
+    },
+    {
+      "name": "nutrition-during-treatment",
+      "repo": "Elyos-Projects/nutrition-during-treatment",
+      "description": "People in cancer treatment face nutrition problems that materially change outcomes: treatment-induced nausea, mucositis (sore mouth), taste changes, appetite loss, diarrhea/constipation, dysphagia, an",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "through a credible channel and it demonstrably helped them manage a treatment side effect or eat better during treatment — with oncology-dietitian sign-off recorded, the safety/red-flag controls verified, and provenance intact."
+    },
+    {
+      "name": "incidence-explorers",
+      "repo": "Elyos-Projects/incidence-explorers",
+      "description": "Cancer statistics are everywhere and almost universally misread. A headline that \"cancer X is rising\" usually conflates more screening with more disease; \"rates\" get confused with \"counts\"; modeled GL",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "The **defining success outcome** (Definition of Shipped): a real beneficiary organisation uses the explainers with its community and people demonstrably read the statistics more correctly, with the data/license/medical-safety guardrails independently verified — not \"the dashboard"
+    },
+    {
+      "name": "disparities-analysis",
+      "repo": "Elyos-Projects/disparities-analysis",
+      "description": "Cancer does not fall evenly. People in some racial and ethnic groups, some geographies, and some socioeconomic conditions are diagnosed later, treated less, and die more — overwhelmingly because of **",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "community adopts an analysis and uses it to inform a concrete program, report, grant, or decision — with methods and non-stigmatizing framing independently verified, every assertion sourced, and (for any patient-facing piece) oncologist + advocate sign-off recorded."
+    },
+    {
+      "name": "screening-coverage-trends",
+      "repo": "Elyos-Projects/screening-coverage-trends",
+      "description": "Cancer screening saves lives by catching breast, cervical, colorectal, and (for high-risk groups) lung cancers early — but **screening rates are uneven and trending in worrying directions** for many p",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "**(a)** fully provenance-covered and reproducible, **(b)** license-cleared, **(c)** statistically reviewed, **(d)** for patient-facing content, oncologist- **and** advocate-signed-off with the \"not medical advice\" framing and verified support pointers, **(e)** accessible, and **("
     }
   ]
 }
