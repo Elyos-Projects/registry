@@ -1067,6 +1067,90 @@
         "needs-partner"
       ],
       "definitionOfShipped": "Goals and non-goals"
+    },
+    {
+      "name": "food-security-briefs",
+      "repo": "Elyos-Projects/food-security-briefs",
+      "description": "The Food and Agriculture Organization of the United Nations (FAO) publishes FAOSTAT, one of the largest open statistical corpora on food, agriculture, nutrition, trade, and food security — over 245 co",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "gate (CC-BY-IGO, attribution + non-endorsement, aggregate-only, no third-party-data entanglement); (2) passed the statistical-integrity checklist and **domain expert** sign-off; (3) passed the **editorial non-alarmist** review; (4) is **reproducible** (build re-derives from sourc"
+    },
+    {
+      "name": "water-quality-explainers",
+      "repo": "Elyos-Projects/water-quality-explainers",
+      "description": "**water-quality-explainers** turns open, authoritative drinking-water data into calm, plain-language explainers that help an ordinary person understand **what the public record says about their local ",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "`verifiedNeed: false` and `requestor: \"TBD\"` until that happens."
+    },
+    {
+      "name": "benefits-navigator",
+      "repo": "Elyos-Projects/benefits-navigator",
+      "description": "Tens of millions of people are eligible for public-assistance programs — SNAP (food assistance), Medicaid/CHIP, WIC, TANF, LIHEAP (energy help), SSI, housing assistance, the EITC, school meals, Lifeli",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "The **defining success outcome** (Definition of Shipped): a real partner organization or navigator adopts the guides and demonstrably uses them to help real people understand or access a program — with the not-advice framing and refusals independently verified, all shipped conten"
+    },
+    {
+      "name": "microbusiness-toolkit",
+      "repo": "Elyos-Projects/microbusiness-toolkit",
+      "description": "**microbusiness-toolkit** is an open, reusable library of **plain-language guides and fill-in templates** for informal and very small entrepreneurs — market traders, home-based makers, single-person s",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "**Source note.** No standalone proposal file exists yet at > `governance/proposals/microbusiness-toolkit.md`. This plan is derived from the portfolio > ROADMAP entry (Track 10) and the project brief: *open templates/guides for informal & small > entrepreneurs (bookkeeping, pricin"
+    },
+    {
+      "name": "atltuae",
+      "repo": "Elyos-Projects/atltuae",
+      "description": "The world does not lack answers; it lacks *honest maps of how much we actually know and how much we do not.* Synthesis engines and \"research agents\" today optimize for the confident-sounding final out",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "synthesis with a public coverage ledger** that an **independent party can re-derive** and that a **real audience or partner uses or builds on** — produced by a loop that demonstrably never concluded prematurely, never exceeded budget, and never ingested a closed source. (Adoption"
+    },
+    {
+      "name": "bigger-pi",
+      "repo": "Elyos-Projects/bigger-pi",
+      "description": "**bigger-pi** is an open, distributed, **verification-first** effort to compute more digits of π on donated compute. The intrinsic value of \"more digits\" is modest; the public good is the **open, repr",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "(1) was produced by independent, credit-sized chunks merged map-reduce to a **bit-identical** single-host result; (2) passes the full **HARD RULE** (dual computation + BBP spot-check + per-chunk recompute + reference cross-check + guard-digit analysis); (3) is published as an **o"
     }
   ]
 }
