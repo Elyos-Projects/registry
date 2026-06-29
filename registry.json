@@ -182,6 +182,109 @@
         "needs-partner"
       ],
       "definitionOfShipped": "Adopted by a pilot office and used to improve a constituent outcome / fulfill a duty, with guardrails verified by an independent ethics reviewer."
+    },
+    {
+      "name": "loc-public-domain-engine",
+      "repo": "Elyos-Projects/loc-public-domain-engine",
+      "description": "Rights-gate + polite API protocol over the Library of Congress, fanning cleared public-domain items into transcription/OCR/alt-text/translation/dataset work.",
+      "domain": [
+        "open-culture",
+        "accessibility",
+        "public-data"
+      ],
+      "priority": "high",
+      "openTasks": 1,
+      "tags": [
+        "open-culture",
+        "needs-partner"
+      ],
+      "definitionOfShipped": "A cleared, provenance-tracked item pool + contributions accepted upstream (By the People / Commons)."
+    },
+    {
+      "name": "open-data-explainers",
+      "repo": "Elyos-Projects/open-data-explainers",
+      "description": "Plain-language explainers & lightweight tools built from verified open datasets; each module decomposes into per-region tasks.",
+      "domain": [
+        "public-data",
+        "education",
+        "civic"
+      ],
+      "priority": "high",
+      "openTasks": 1,
+      "tags": [
+        "public-data",
+        "education"
+      ],
+      "definitionOfShipped": "Explainers/tools adopted by a partner/community, accurate and source-cited."
+    },
+    {
+      "name": "literacy-from-zero",
+      "repo": "Elyos-Projects/literacy-from-zero",
+      "description": "Teach reading from absolute zero (print awareness -> phonics -> fluency) for a child or unschooled adult, fully internationalized.",
+      "domain": [
+        "education",
+        "literacy"
+      ],
+      "priority": "high",
+      "openTasks": 1,
+      "tags": [
+        "education",
+        "good-first-deed",
+        "i18n"
+      ],
+      "definitionOfShipped": "Learners progress from zero toward reading; materials adopted by a partner school/NGO."
+    },
+    {
+      "name": "irish-gaeilge-learning",
+      "repo": "Elyos-Projects/irish-gaeilge-learning",
+      "description": "Structured Irish (Gaeilge) learning course (spoken + written, audio, CEFR-aligned) built to support language revitalization.",
+      "domain": [
+        "language",
+        "education",
+        "culture"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "language",
+        "education"
+      ],
+      "definitionOfShipped": "Course used by learners; native-speaker reviewed; adopted by a partner."
+    },
+    {
+      "name": "ewing-open-data-catalog",
+      "repo": "Elyos-Projects/ewing-open-data-catalog",
+      "description": "Open, license-clear index + datasheets of open Ewing Sarcoma datasets. Open-access/aggregate/de-identified data only; controlled-access out of scope.",
+      "domain": [
+        "cancer",
+        "open-data",
+        "open-science"
+      ],
+      "priority": "high",
+      "openTasks": 1,
+      "tags": [
+        "cancer",
+        "open-data",
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Published catalog + datasheets adopted/cited by a research/advocacy partner."
+    },
+    {
+      "name": "ewsr1-fli1-knowledge-graph",
+      "repo": "Elyos-Projects/ewsr1-fli1-knowledge-graph",
+      "description": "Open knowledge graph of EWSR1-FLI1/ETS fusion biology for Ewing Sarcoma, synthesized from open sources with provenance on every assertion. No patient data.",
+      "domain": [
+        "cancer",
+        "open-science"
+      ],
+      "priority": "high",
+      "openTasks": 1,
+      "tags": [
+        "cancer",
+        "knowledge-graph",
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Published open, provenance-tracked KG adopted/cited by researchers."
     }
   ]
 }
