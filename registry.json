@@ -1487,6 +1487,90 @@
         "needs-partner"
       ],
       "definitionOfShipped": "assertions**, built from the permissive source tier, passing the license/provenance, individual- data, and biocuration gates, with the evaluation report meeting precision/normalization targets and **100% grounding fidelity** — and **accepted/consumed by a named beneficiary** (KB "
+    },
+    {
+      "name": "systematic-review-assist",
+      "repo": "Elyos-Projects/systematic-review-assist",
+      "description": "A systematic review is the backbone of evidence-based oncology: it defines a clinical question, searches the literature exhaustively, screens thousands of records down to the eligible studies, extract",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "the tool to **complete or materially accelerate a real review**, with measured recall ≥ target, full provenance and licence compliance, PRISMA-conformant artefacts, and an independent methodologist's confirmation that rigour was maintained — not merely \"records screened faster.\""
+    },
+    {
+      "name": "drug-target-evidence-cards",
+      "repo": "Elyos-Projects/drug-target-evidence-cards",
+      "description": "Cancer-target research is bottlenecked not by a shortage of data but by its fragmentation. The evidence that a given gene/protein is a credible therapeutic target in a given cancer — genetic associati",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "or advocacy org) uses the evidence cards in their work, with provenance verified, the compliance gate green, and scientific (and, for any patient-facing content, oncologist + advocate) review recorded."
+    },
+    {
+      "name": "proteomics-reanalysis",
+      "repo": "Elyos-Projects/proteomics-reanalysis",
+      "description": "Most published cancer-proteomics results are effectively irreproducible by a third party. The raw data is increasingly deposited openly (PRIDE/ProteomeXchange now hold tens of thousands of datasets), ",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "| Container/environment fully pinned by immutable digest (no floating tags) | n/a | 100% of pipelines | | Datasets passing the license + PII + re-identification gate before any processing | n/a | 100% (no processing of an un-cleared dataset) | | Reproducibility outcome reported h"
+    },
+    {
+      "name": "ml-oncology-benchmarks",
+      "repo": "Elyos-Projects/ml-oncology-benchmarks",
+      "description": "Machine-learning results in oncology are widely irreproducible and routinely **over-optimistic**. The dominant cause is not weak models but **data leakage**: feature selection or normalization perform",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "licence/access/de-id gate with recorded provenance; (2) the leakage-audit suite passes in CI; (3) it reports both internal-CV and **external-cohort** performance with the optimism gap quantified; (4) every number is provenance-traced (code+data+split triple) in a model card; (5) "
+    },
+    {
+      "name": "synthetic-cancer-data",
+      "repo": "Elyos-Projects/synthetic-cancer-data",
+      "description": "Cancer-method development has a chicken-and-egg problem. The realistic individual-level data that makes a new algorithm, pipeline, or teaching exercise credible (TCGA-scale clinical+genomic records) i",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "modalities, each with a complete data card and an **independent privacy audit**; a published privacy-and-utility evaluation harness; **drop-in CI fixtures**; and **at least one downstream adopter that has actually used the synthetic data** in method/teaching/CI work. Per Elyos, *"
+    },
+    {
+      "name": "oncology-glossary-multilingual",
+      "repo": "Elyos-Projects/oncology-glossary-multilingual",
+      "description": "`oncology-glossary-multilingual` is an Elyos good-deed project that builds an **open, multilingual, plain-language glossary of oncology and clinical-trial terminology for patients and caregivers** — t",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "partner-independent foundations (allow-list, schema, review machinery, a reviewed source-language seed set); translation and delivery are gated behind securing the reviewers and a partner."
     }
   ]
 }
