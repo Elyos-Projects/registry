@@ -1235,6 +1235,90 @@
         "needs-partner"
       ],
       "definitionOfShipped": "A deed is **shipped** when: acceptance criteria met **+** CI green (schema + provenance + license gates) **+** required human/expert sign-off recorded **+** the artifact is actually published to its public home (CELLxGENE collection / download bundle / Zenodo DOI) **and** linked "
+    },
+    {
+      "name": "ewing-drug-target-evidence",
+      "repo": "Elyos-Projects/ewing-drug-target-evidence",
+      "description": "Ewing Sarcoma is driven in most cases by a single defining event — an **EWSR1-FLI1** (or related EWSR1-ETS) gene fusion — yet that driver has proven extraordinarily hard to drug directly, and outcomes",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "cooperative-group science committee, or research-funding advocacy organization adopts the evidence base and demonstrably uses it in their work, with provenance verified and domain-expert sign-off recorded — and, for any patient-facing material, with the oncologist + patient-advoc"
+    },
+    {
+      "name": "ewing-trial-finder",
+      "repo": "Elyos-Projects/ewing-trial-finder",
+      "description": "Ewing sarcoma is a rare, aggressive bone-and-soft-tissue cancer that most often strikes children, adolescents, and young adults. Because it is rare, standard-of-care options are limited and clinical t",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "vetted, clinician-reviewed, provenance-backed trial information from the finder to have a better- informed conversation with their care team — with accuracy, currency, the no-advice boundary, and the dual review gate **all independently verified**, and **zero** medical-advice or "
+    },
+    {
+      "name": "ewing-eligibility-structuring",
+      "repo": "Elyos-Projects/ewing-eligibility-structuring",
+      "description": "Ewing sarcoma is a rare bone/soft-tissue cancer that strikes mostly children, adolescents, and young adults (AYA), driven in ~85% of cases by the *EWSR1–FLI1* fusion (and related *EWSR1–ETS* fusions).",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "gold-standard regression) **+** provenance 100% **+** accuracy gate passed **+** (for patient-facing) oncologist + advocate sign-off recorded **+** the artifact actually handed to / adopted by the partner or beneficiary workflow. *Delivered, not merged.*"
+    },
+    {
+      "name": "ewing-family-guide",
+      "repo": "Elyos-Projects/ewing-family-guide",
+      "description": "A family hears the words \"Ewing sarcoma\" and the ground disappears. It is rare (roughly 1 in a million per year; ~200 new cases/year in the US, ~similar in the EU), it is aggressive, the treatment is ",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "plain-language guide is delivered through a trusted family-facing channel and real families use it to better understand the diagnosis and engage with their care team — with clinical accuracy signed off by an oncologist, tone/dignity/usefulness signed off by a patient advocate, th"
+    },
+    {
+      "name": "ewing-info-translations",
+      "repo": "Elyos-Projects/ewing-info-translations",
+      "description": "`ewing-info-translations` is an Elyos good-deed project that translates **already-vetted, authoritative patient-and-family education about Ewing Sarcoma** — sourced exclusively from credentialed bodie",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "criteria met **and** medical-translator + back-translation + **oncologist + advocate** sign-offs all recorded **and** license/attribution/non-endorsement/disclaimer verified **and** provenance complete **and** CI green **and** the set is **delivered to and adopted by the requesti"
+    },
+    {
+      "name": "ewing-survivorship-late-effects",
+      "repo": "Elyos-Projects/ewing-survivorship-late-effects",
+      "description": "Ewing sarcoma is a rare bone-and-soft-tissue cancer that disproportionately strikes children, adolescents, and young adults. Survival has improved markedly, which means a growing population of survivo",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "real survivors/families through a vetted partner and demonstrably helps them understand or prepare for their survivorship care — with clinical accuracy and harm-avoidance independently verified, every assertion sourced, and the cancer data guardrails upheld."
     }
   ]
 }
