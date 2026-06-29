@@ -479,6 +479,90 @@
         "good-first-deed"
       ],
       "definitionOfShipped": "Open recipe dataset adopted; community-attributed."
+    },
+    {
+      "name": "historical-markers-index",
+      "repo": "Elyos-Projects/historical-markers-index",
+      "description": "historical-markers-index",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "layer with 100% provenance and correct `rightsBasis`; CI green; domain + license + neutrality   sign-off recorded; a QA stratified sample ≥95% verified; **and** the output handed to / used by   a real beneficiary (logged in the public reuse register). Until a steward/partner exis"
+    },
+    {
+      "name": "public-domain-scores",
+      "repo": "Elyos-Projects/public-domain-scores",
+      "description": "There is an enormous body of music that humanity collectively owns: every composition whose copyright has expired. Yet most of it is, in practice, *unusable as data*. It exists only as images — scanne",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "are recorded and reviewer-approved; (2) MusicXML validates against the XSD and round-trips; (3) the independent music-accuracy audit meets the bar and is signed; (4) MIDI + MEI derivatives regenerate cleanly; (5) provenance is complete (CI green); (6) it is published under the co"
+    },
+    {
+      "name": "world-folktales-open",
+      "repo": "Elyos-Projects/world-folktales-open",
+      "description": "Folktales are public-domain at the level of the *ancient story*, but the artifacts people actually reuse online — a specific 1990s translation, a copyrighted anthology's selection and arrangement, a m",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "corpus with: **100%** of tales carrying a resolvable source-edition citation; **100%** carrying a cultural attribution; **100%** of living-tradition/retold items cleared by cultural review; ≥25 regions and ≥10 languages; passing JSON-Schema + provenance + attribution CI; with at "
+    },
+    {
+      "name": "urban-tree-inventory",
+      "repo": "Elyos-Projects/urban-tree-inventory",
+      "description": "**urban-tree-inventory** is an open toolkit that lets communities map their urban trees and tree canopy in a consistent, license-clean, privacy-respecting way — and then actually *use* the result. It ",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "partner adopts the toolkit for a real inventory. `verifiedNeed` is `false` on every task until then."
+    },
+    {
+      "name": "home-energy-savings",
+      "repo": "Elyos-Projects/home-energy-savings",
+      "description": "**home-energy-savings** is an open, **product-neutral** web app (installable PWA) that helps households spend less on energy and live in more comfortable homes. It pairs two things: (1) a body of **pl",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Goals and non-goals"
+    },
+    {
+      "name": "open-gardening-guides",
+      "repo": "Elyos-Projects/open-gardening-guides",
+      "description": "**open-gardening-guides** turns spare AI capacity into a free, open, **climate-zone-aware** body of food-growing guidance for households and communities working to feed themselves. Its purpose is narr",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Output adopted/used by a real beneficiary partner."
     }
   ]
 }
