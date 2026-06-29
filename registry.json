@@ -1319,6 +1319,90 @@
         "needs-partner"
       ],
       "definitionOfShipped": "real survivors/families through a vetted partner and demonstrably helps them understand or prepare for their survivorship care — with clinical accuracy and harm-avoidance independently verified, every assertion sourced, and the cancer data guardrails upheld."
+    },
+    {
+      "name": "ewing-registry-standards",
+      "repo": "Elyos-Projects/ewing-registry-standards",
+      "description": "ewing-registry-standards",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "validators + provenance-lint + license-audit) **and** required human review signed off **and** (for the standard as a whole) **a real partner has the artifacts in hand and at least one has committed to pilot/adopt** (O1). Until O1, the project is \"delivered to readiness,\" **not**"
+    },
+    {
+      "name": "ewing-outcomes-harmonization",
+      "repo": "Elyos-Projects/ewing-outcomes-harmonization",
+      "description": "Ewing Sarcoma (ES) outcomes are reported across decades of clinical trials and cohort studies, but the published numbers are **not directly comparable**. Studies differ in how they define an \"event\" (",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "records pass schema + provenance + min-cell CI gates, (2) the audited sample meets ≥95% field agreement with discrepancies adjudicated, (3) the data dictionary and provenance graph are published, (4) the reproducible notebook runs clean from the released data, (5) a domain review"
+    },
+    {
+      "name": "ewing-biomarker-evidence-cards",
+      "repo": "Elyos-Projects/ewing-biomarker-evidence-cards",
+      "description": "Ewing Sarcoma is a rare, aggressive bone-and-soft-tissue cancer with a peak incidence in adolescents and young adults. Its defining molecular feature — a fusion of *EWSR1* with an ETS-family transcrip",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "cards — and, where the patient-facing layer ships, families receive honest, sourced, expert-reviewed information — with licensing, provenance, evidence-grading, and review gates all independently verified."
+    },
+    {
+      "name": "ewing-immunotherapy-target-catalog",
+      "repo": "Elyos-Projects/ewing-immunotherapy-target-catalog",
+      "description": "Ewing sarcoma is driven in ~85–90% of cases by the **EWSR1-FLI1** fusion oncoprotein (or related EWSR1-ETS fusions). It is rare (~1 per million per year), disproportionately affects adolescents and yo",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "effort, foundation, or advocacy organization **adopts or demonstrably uses** the catalog (cites it, ingests it, or builds materials on it), with provenance and licensing verified and all high-tier content expert-signed-off — i.e., the catalog actually reaches and helps someone, n"
+    },
+    {
+      "name": "ewing-reproducibility",
+      "repo": "Elyos-Projects/ewing-reproducibility",
+      "description": "A large and growing share of cancer research is computational, yet an alarming fraction of published analyses cannot be independently re-run: code is missing or unversioned, software environments are ",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "analyses across ≥3 analysis types**, each a one-command, CI-verified, DOI-archived package with **100% provenance** and a published outcome classification; **every non-reproduction author-engaged** before publication; at least one **steward that has adopted or cited** the corpus;"
+    },
+    {
+      "name": "ewing-research-landscape",
+      "repo": "Elyos-Projects/ewing-research-landscape",
+      "description": "There is no open, queryable, source-linked map of the Ewing Sarcoma research landscape. The information exists — in NIH RePORTER, the EU's CORDIS, UKRI's Gateway to Research, the trial registries, Ope",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "research ecosystem with: **100%** provenance on assertions; ≥4 integrated open sources; canonical-ID reconciliation at target coverage; original currency/amount retained on 100% of grants; a current **\"known gaps\" ledger**; passing CI (schema + provenance + allow-list + freshness"
     }
   ]
 }
