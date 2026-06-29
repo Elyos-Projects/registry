@@ -1655,6 +1655,90 @@
         "needs-partner"
       ],
       "definitionOfShipped": "**(a)** fully provenance-covered and reproducible, **(b)** license-cleared, **(c)** statistically reviewed, **(d)** for patient-facing content, oncologist- **and** advocate-signed-off with the \"not medical advice\" framing and verified support pointers, **(e)** accessible, and **("
+    },
+    {
+      "name": "prevention-info-open",
+      "repo": "Elyos-Projects/prevention-info-open",
+      "description": "Roughly a large share of cancer cases are attributable to **modifiable** exposures, and three of the biggest and best-established are tobacco use, persistent HPV infection (vaccine-preventable), and u",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "clean, accessible content in front of a **real audience**, and **≥ 1 beneficiary-outcome signal** (comprehension gain, referral/uptake, or behavior-change indicator) is recorded **aggregate/anonymous** — with content expert- and advocate-signed-off, provenance complete, and CI ga"
+    },
+    {
+      "name": "genome-browser-tracks",
+      "repo": "Elyos-Projects/genome-browser-tracks",
+      "description": "Cancer genomics knowledge is published across dozens of open resources — gene models (GENCODE, RefSeq, Ensembl), curated variant interpretations (CIViC, ClinVar), driver-gene and target evidence (Open",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "(committed artifact); provenance complete (score ≥ 90/100); coordinate/assembly verified; format- and render-verified in ≥1 target browser on the declared assembly; published at a loadable URL with attribution and \"not medical advice\" notice; **and adopted/used by a beneficiary**"
+    },
+    {
+      "name": "lab-protocols-open",
+      "repo": "Elyos-Projects/lab-protocols-open",
+      "description": "Cancer wet-lab research runs on protocols — the step-by-step recipes for culturing cells, extracting nucleic acids, running assays, building animal models, and preparing samples for sequencing. In pra",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "| 3 | **Provenance completeness** — % of assertions with a cited, license-verified source | n/a | 100% on shipped protocols (hard gate) | Linter report | | 4 | **Safety completeness** — shipped protocols with full hazard/PPE/waste/emergency section | n/a | 100% (hard gate) | Lint"
+    },
+    {
+      "name": "onco-research-software-docs",
+      "repo": "Elyos-Projects/onco-research-software-docs",
+      "description": "Cancer research runs on open-source software — variant callers, differential-expression and single-cell toolkits, mutational-signature engines, fusion detectors, digital-pathology and medical-imaging ",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "via a written confirmation for non-GitHub channels), the tutorial/tests **run reproducibly in CI**, the cancer-data guardrail and provenance are satisfied with the gate artifact committed, and the Steward has recorded the acceptance evidence artifact (`outcomes/<task-id>.json`, w"
+    },
+    {
+      "name": "pathology-image-benchmarks",
+      "repo": "Elyos-Projects/pathology-image-benchmarks",
+      "description": "Computational pathology is moving fast and reproducing badly. Papers report state-of-the-art numbers on whole-slide images, but comparisons are routinely undermined by three problems: (1) **data-sourc",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "**Non-goals**"
+    },
+    {
+      "name": "model-cards-oncology",
+      "repo": "Elyos-Projects/model-cards-oncology",
+      "description": "Open machine-learning models for cancer — digital-pathology classifiers, mutation/biomarker predictors from H&E images, radiogenomics models, transcriptomic subtype classifiers, survival models — are ",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "/ merged repo PR / published Zenodo record / written maintainer confirmation) with: every claim cited; model + all datasets gate-passed (open/de-identified, license permits use) with the committed gate artifact; subgroups reported or the gap explicitly flagged; the research-use-o"
     }
   ]
 }
