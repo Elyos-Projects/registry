@@ -647,6 +647,90 @@
         "needs-partner"
       ],
       "definitionOfShipped": "Goals and non-goals"
+    },
+    {
+      "name": "read-aloud-audio",
+      "repo": "Elyos-Projects/read-aloud-audio",
+      "description": "Hundreds of thousands of openly-licensed and public-domain texts — Project Gutenberg classics, Standard Ebooks editions, Wikisource transcriptions, OpenStax and other open textbooks, CC-licensed child",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "playable** for learners (open-audiobook host / open-publisher / archive), in open formats, with license + attribution + speaker-consent reference + provenance recorded and the human/synthetic label present. Rendered-but-not-published ≠ shipped."
+    },
+    {
+      "name": "handwriting-practice",
+      "repo": "Elyos-Projects/handwriting-practice",
+      "description": "handwriting-practice",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "A script (or sheet set) is **delivered, not merged** when: model is schema-valid and sourced; provenance-gate green; formation reviewer-signed (script-literate for non-Latin); accessibility variants produced; CC-BY PDFs + CC-BY model committed with attribution and license texts; "
+    },
+    {
+      "name": "math-manipulatives-printables",
+      "repo": "Elyos-Projects/math-manipulatives-printables",
+      "description": "Concrete manipulatives — counters, number lines, fraction tiles, base-ten blocks — are one of the best-evidenced tools in early and elementary mathematics: they let a learner *see and touch* the quant",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "secured channel, verified dimensionally + physically + for accessibility, and educator-reviewed**, so a real learner can obtain it and print a *correct, usable* manipulative. Generated-but-unverified, or verified-but-undistributed, ≠ shipped."
+    },
+    {
+      "name": "teacher-lesson-plans",
+      "repo": "Elyos-Projects/teacher-lesson-plans",
+      "description": "Open Educational Resources (OER) are abundant but rarely *teachable as-is*. A teacher who finds an openly-licensed reading passage, a simulation, or a problem set still has to do the hard, unpaid work",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "green + the plan **adopted by a real teacher/partner** (taught, or accepted by a repository for reuse) with adoption evidence recorded in the outcome ledger — **or**, if no adoption channel yet exists, published openly with the blocker explicitly surfaced and `verifiedNeed` left "
+    },
+    {
+      "name": "quiz-bank-open",
+      "repo": "Elyos-Projects/quiz-bank-open",
+      "description": "Open Educational Resources (OER) — openly licensed textbooks, modules, and courseware — give the world free *content*, but they are chronically short of the thing that turns reading into learning: **g",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "(import record/permalink), merged into an OER repo (merge commit), or confirmed in classroom use by a named teacher (written confirmation) — with: verified source license(s) + recorded provenance; the machine gate green; the human SME, accessibility, bias, and license sign-offs r"
+    },
+    {
+      "name": "curriculum-standards-map",
+      "repo": "Elyos-Projects/curriculum-standards-map",
+      "description": "Teachers and curriculum coordinators waste enormous time answering one deceptively simple question: *\"Which openly-licensed resource actually teaches the standard I have to cover this week?\"* Open Edu",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "licence/terms gate (artifacts committed); (2) a qualified educator accepted it (review recorded); (3) it validates against the schema and every identifier resolves; (4) it is **delivered to a named consumer** — ingested by a repository/district/platform or published in the open c"
     }
   ]
 }
