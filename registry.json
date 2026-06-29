@@ -1739,6 +1739,104 @@
         "needs-partner"
       ],
       "definitionOfShipped": "/ merged repo PR / published Zenodo record / written maintainer confirmation) with: every claim cited; model + all datasets gate-passed (open/de-identified, license permits use) with the committed gate artifact; subgroups reported or the gap explicitly flagged; the research-use-o"
+    },
+    {
+      "name": "bioinformatics-from-zero",
+      "repo": "Elyos-Projects/bioinformatics-from-zero",
+      "description": "Cancer research generates enormous volumes of openly available data — gene expression matrices, de-identified clinical tables, aggregate incidence statistics, cell-line dependency maps — yet the skill",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "pedagogy review approved · (domain review approved for medium lessons) · accessibility checklist passed · licensed + attributed · **and** at least one external learner or an adopting educator has successfully used it (the \"delivered, not merged\" gate). Until a partner/reviewer is"
+    },
+    {
+      "name": "oncology-data-literacy",
+      "repo": "Elyos-Projects/oncology-data-literacy",
+      "description": "Cancer statistics are among the most widely cited and most widely misunderstood numbers in public life. \"Five-year survival has doubled\" is routinely read as \"screening saves lives\" when it can be ful",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "and shows a measurable reduction in the targeted statistical misconceptions, with all content expert-signed-off, every statistic sourced and provenance-tracked, and the \"not medical advice\" frame upheld throughout."
+    },
+    {
+      "name": "open-teaching-datasets",
+      "repo": "Elyos-Projects/open-teaching-datasets",
+      "description": "Learning to work with cancer data — survival analysis, differential expression, variant annotation, staging logic, epidemiology, messy-data cleaning — is gatekept by a data problem. The realistic data",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "license gate (artifact committed); its documentation-completeness score ≥ 90/100; its reproducibility check = PASS; it has ≥ 1 exercise with a worked solution and a runnable notebook; the safety notice is present on every artifact; it has a Zenodo DOI; **and a beneficiary has ado"
+    },
+    {
+      "name": "reproducibility-curriculum",
+      "repo": "Elyos-Projects/reproducibility-curriculum",
+      "description": "Wet-lab and translational cancer scientists routinely produce results that are difficult or impossible for anyone — including their own future selves — to reproduce: analyses run in undocumented, hand",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "reviews; (2) its containers/exercises/examples are **green in the last scheduled CI run**; (3) every example dataset has a committed PASS gate artifact; (4) it is **taught to or adopted by real learners** (a run delivered, or a named partner teaches/embeds it) with the outcome re"
+    },
+    {
+      "name": "stats-for-clinicians",
+      "repo": "Elyos-Projects/stats-for-clinicians",
+      "description": "Clinicians read trial results every week and act on them, but the **statistics that decide how a result should change practice are routinely misread** — by trainees and senior physicians alike. The li",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "explainers), with 100% reproducible worked examples, complete provenance, verified open-data licensing, accessibility met, and a structural \"not clinical advice\" frame — **adopted/used by a named beneficiary** (taught from / embedded in a curriculum, journal-club kit, or advocacy"
+    },
+    {
+      "name": "patient-advocate-research-primer",
+      "repo": "Elyos-Projects/patient-advocate-research-primer",
+      "description": "Patient advocates are now embedded throughout cancer research. They sit on NIH/NCI study sections, charity scientific advisory boards, IRBs/ethics committees, trial steering and data-safety committees",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "(incl. licence + provenance + readability gates); dual high-tier sign-off recorded (oncologist + advocate) for patient-facing units; licence/provenance audit passed; **and** the unit is published to the partner and in the advocates' hands (last-mile handoff by the steward). \"Deli"
+    },
+    {
+      "name": "rare-cancer-registry-templates",
+      "repo": "Elyos-Projects/rare-cancer-registry-templates",
+      "description": "Rare cancers (individually < 6 / 100,000 / year; collectively ~20–24% of all cancer diagnoses and a disproportionate share of cancer mortality) are the textbook case where data fragmentation kills. No",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "standards to stand up or harmonise a **consent-first** registry, with the consent and governance artifacts independently reviewed (oncologist + advocate for patient-facing text; bioethics/legal for the regulatory mapping), conformance demonstrated on synthetic data, and **no pati"
     }
   ]
 }
