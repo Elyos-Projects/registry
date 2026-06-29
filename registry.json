@@ -731,6 +731,90 @@
         "needs-partner"
       ],
       "definitionOfShipped": "licence/terms gate (artifacts committed); (2) a qualified educator accepted it (review recorded); (3) it validates against the schema and every identifier resolves; (4) it is **delivered to a named consumer** — ingested by a repository/district/platform or published in the open c"
+    },
+    {
+      "name": "open-transliteration",
+      "repo": "Elyos-Projects/open-transliteration",
+      "description": "`open-transliteration` is an Elyos good-deed project that produces **open, machine-readable transliteration data and a reference engine** for converting text between writing systems — beginning with *",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "be fully met. Securing a first adopter is the top open dependency (see Open questions and Roadmap M3)."
+    },
+    {
+      "name": "keyboard-layouts-open",
+      "repo": "Elyos-Projects/keyboard-layouts-open",
+      "description": "`keyboard-layouts-open` is an Elyos good-deed project that builds **open, standards-based input methods (keyboard layouts) for under-served languages and scripts** — the languages whose speakers canno",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Securing a first community partner is the top open dependency (see Open questions and Roadmap M2)."
+    },
+    {
+      "name": "open-accessible-fonts",
+      "repo": "Elyos-Projects/open-accessible-fonts",
+      "description": "open-accessible-fonts",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "A font is **Shipped/Delivered** when: acceptance criteria met **and** automated QA green **and** required human/community/expert sign-off recorded **and** OFL/FONTLOG/provenance complete **and** the artifact is *actually adopted* — handed to the requesting community, accepted ups"
+    },
+    {
+      "name": "place-name-pronunciation",
+      "repo": "Elyos-Projects/place-name-pronunciation",
+      "description": "Place names are mispronounced constantly — by newcomers, broadcasters, emergency dispatchers, navigation and screen-reader software, language learners, and diaspora reconnecting with heritage. A name ",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "A consented, provenanced corpus of place-name pronunciations (target ≥500 places across ≥5 locales) with 100% consent+provenance, validated IPA/respelling on ≥90%, sourced origin notes on ≥200 entries, **all Indigenous/minority entries under a stewardship record**, exported as op"
+    },
+    {
+      "name": "braille-ready-texts",
+      "repo": "Elyos-Projects/braille-ready-texts",
+      "description": "A blind or deafblind person who reads braille has access to a vanishingly small fraction of the world's written work. Estimates vary by country, but the share of published titles ever produced in brai",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "reviewer **and delivered into a distribution channel where braille readers can obtain it**, with license + attribution + provenance (incl. liblouis version + tables) recorded. Generated-but-not-verified, or verified-but-not-delivered, ≠ shipped."
+    },
+    {
+      "name": "open-pictograms",
+      "repo": "Elyos-Projects/open-pictograms",
+      "description": "When you cannot read the local language — because you never learned to read, because you read at a basic level, because you have a cognitive or communication disability, or because you just arrived in",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "comprehension-passed at its threshold (safety: expert-signed), culturally cleared, fully metadata'd/attributed, and exported in all formats. The deed is **delivered** when, with a secured partner, that symbol reaches **real use by a beneficiary** (installed signage / live AAC boa"
     }
   ]
 }
