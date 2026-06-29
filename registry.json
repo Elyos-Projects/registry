@@ -1403,6 +1403,90 @@
         "needs-partner"
       ],
       "definitionOfShipped": "research ecosystem with: **100%** provenance on assertions; ≥4 integrated open sources; canonical-ID reconciliation at target coverage; original currency/amount retained on 100% of grants; a current **\"known gaps\" ledger**; passing CI (schema + provenance + allow-list + freshness"
+    },
+    {
+      "name": "cancer-dataset-datasheets",
+      "repo": "Elyos-Projects/cancer-dataset-datasheets",
+      "description": "Open cancer datasets — The Cancer Genome Atlas (TCGA, via the NCI Genomic Data Commons / GDC), the Gene Expression Omnibus (GEO), cBioPortal, and the Cancer Dependency Map (DepMap) — are among the mos",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "portal/repo/archive** (per the per-channel acceptance definitions in Success metrics), with: open-access tier confirmed, no controlled/identifiable content, a verified license with cited `permitsDerivatives`, recorded provenance + required citation, **every assertion sourced**, c"
+    },
+    {
+      "name": "cancer-data-dictionaries",
+      "repo": "Elyos-Projects/cancer-data-dictionaries",
+      "description": "Public cancer datasets are a foundational resource for research, yet they are routinely shipped with documentation that is incomplete, cryptic, or scattered across PDFs, wikis, and coding manuals. A r",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "the commons/repo, merged PR, or DOI — per the per-channel definitions), with: access-tier+license+PII gate PASSed and artifact committed, **provenance completeness = 100%**, field coverage ≥ 95% (gaps listed), quality score ≥ 90/100, machine-readable outputs valid against pinned "
+    },
+    {
+      "name": "open-cohort-catalog",
+      "repo": "Elyos-Projects/open-cohort-catalog",
+      "description": "Cancer research generates an enormous, growing body of **open** data — gene-expression series, open-tier somatic mutation calls, proteogenomics, cell-line dependency maps, and aggregate incidence/outc",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "license + PII), fully source-cited (completeness ≥ 90/100), schema-valid, CI-green, reviewer-approved, published in the catalog, AND demonstrably usable by a beneficiary** — i.e. the catalog (or the record) is adopted/queried/cited by a named third party, with the Steward's outco"
+    },
+    {
+      "name": "pmc-oa-cancer-corpus",
+      "repo": "Elyos-Projects/pmc-oa-cancer-corpus",
+      "description": "Cancer research moves fast and is scattered across hundreds of journals. Researchers, data scientists, patient advocates, and tool builders who want a clean, license-clear, reproducible slice of the *",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "datasheet + provenance) that: (1) passes the license + cancer-guardrail gate with a committed audit artifact showing **100% license correctness on the audit sample and zero tier/patient-content leakage**; (2) is deterministically reproducible (manifest hash reproduces); (3) meets"
+    },
+    {
+      "name": "oncogene-knowledge-graph",
+      "repo": "Elyos-Projects/oncogene-knowledge-graph",
+      "description": "Cancer is a disease of the genome. A clinician or researcher trying to understand a single tumor alteration — say *BRAF* V600E in melanoma — must today stitch together facts from a dozen disconnected ",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "sources**; **100% per-assertion provenance** (CI-enforced); identifier resolution ≥99% and ≥95% of variants VRS-keyed; independent accuracy audit **≥98%**; standard exports + read-only explorer (with \"not medical advice\" banner) live; per-export license manifests correct; **a nam"
+    },
+    {
+      "name": "biomarker-extraction",
+      "repo": "Elyos-Projects/biomarker-extraction",
+      "description": "The cancer literature contains an enormous, growing body of **biomarker–outcome statements** — \"high *X* expression is associated with worse overall survival in *Y* cancer\", \"*Z* mutation predicts res",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "assertions**, built from the permissive source tier, passing the license/provenance, individual- data, and biocuration gates, with the evaluation report meeting precision/normalization targets and **100% grounding fidelity** — and **accepted/consumed by a named beneficiary** (KB "
     }
   ]
 }
