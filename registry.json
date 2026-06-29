@@ -983,6 +983,90 @@
         "needs-partner"
       ],
       "definitionOfShipped": "Goals and non-goals"
+    },
+    {
+      "name": "multilingual-signage-templates",
+      "repo": "Elyos-Projects/multilingual-signage-templates",
+      "description": "When someone walks into an unfamiliar clinic, an emergency shelter, or a new school and does not read the local language well, the building stops speaking to them. Where is registration? Which door is",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "print-ready PDF (A4+Letter, colour+grayscale) plus editable source, (b) passing the a11y + render checks, (c) fully license-clean with an `ATTRIBUTIONS` bundle, and — for the outcome that actually matters — (d) **printed and deployed at a partner site and confirmed understood** b"
+    },
+    {
+      "name": "multilingual-museum-labels",
+      "repo": "Elyos-Projects/multilingual-museum-labels",
+      "description": "`multilingual-museum-labels` is an Elyos good-deed project that produces **plain-language, multilingual object descriptions** (\"labels,\" \"wall text,\" \"gallery cards\") for **small, under-resourced muse",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "top open dependency (see Open questions and Roadmap M2)."
+    },
+    {
+      "name": "emergency-phrasebooks",
+      "repo": "Elyos-Projects/emergency-phrasebooks",
+      "description": "`emergency-phrasebooks` is an Elyos good-deed project that produces **pre-translated, expert-reviewed emergency phrase packs** — short, action-oriented utterances that let a **first responder or front",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "**and** qualified-speaker sign-off recorded (plus second-reviewer/back-translation/clinician sign-off where the tier requires) **and** the **mandatory disclaimer + license + attribution + provenance** verified **and** **locale data verified** **and** CI green **and** the pack is "
+    },
+    {
+      "name": "media-literacy-curriculum",
+      "repo": "Elyos-Projects/media-literacy-curriculum",
+      "description": "Misinformation harms real people: it drives unsafe health decisions, fuels scams and financial loss, erodes trust in institutions across the political spectrum, and falls hardest on people with the le",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "**Non-goals (constraints that define the project — see also §Scope)**"
+    },
+    {
+      "name": "know-your-rights",
+      "repo": "Elyos-Projects/know-your-rights",
+      "description": "People facing eviction, wage theft, unsafe work, discrimination, or a law-enforcement encounter routinely make irreversible decisions without knowing the rights the law already grants them. Authoritat",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "distributes the attorney-reviewed content to the people it serves, and there is at least one documented instance of a beneficiary using it to understand or assert a right — with neutrality and currency controls independently verified and all legal content attorney-signed-off."
+    },
+    {
+      "name": "food-assistance-maps",
+      "repo": "Elyos-Projects/food-assistance-maps",
+      "description": "**food-assistance-maps** is an open, **freshness-tracked directory dataset** of food banks, food pantries, community fridges, soup kitchens / hot-meal programs, school and summer meal sites, and relat",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Goals and non-goals"
     }
   ]
 }
