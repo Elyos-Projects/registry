@@ -285,6 +285,104 @@
         "needs-partner"
       ],
       "definitionOfShipped": "Published open, provenance-tracked KG adopted/cited by researchers."
+    },
+    {
+      "name": "numeracy-from-zero",
+      "repo": "Elyos-Projects/numeracy-from-zero",
+      "description": "Teach number sense from absolute zero, fully internationalized, for a child or unschooled adult.",
+      "domain": [
+        "education",
+        "numeracy"
+      ],
+      "priority": "high",
+      "openTasks": 1,
+      "tags": [
+        "education",
+        "good-first-deed",
+        "i18n"
+      ],
+      "definitionOfShipped": "Learners progress from zero in numeracy; materials adopted by a partner."
+    },
+    {
+      "name": "decodable-readers",
+      "repo": "Elyos-Projects/decodable-readers",
+      "description": "Open, phonics-aligned decodable storybooks for early reading, multilingual.",
+      "domain": [
+        "education",
+        "literacy"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "education",
+        "good-first-deed"
+      ],
+      "definitionOfShipped": "Decodable readers adopted by educators/literacy programs."
+    },
+    {
+      "name": "open-childrens-books",
+      "repo": "Elyos-Projects/open-childrens-books",
+      "description": "Original, illustrated, openly-licensed children's picture books, multilingual.",
+      "domain": [
+        "education",
+        "culture"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "education",
+        "good-first-deed"
+      ],
+      "definitionOfShipped": "Openly-licensed picture books published and adopted."
+    },
+    {
+      "name": "oer-everything",
+      "repo": "Elyos-Projects/oer-everything",
+      "description": "Open K-12 curriculum library spanning math/science/reading/CS, mapped to curriculum standards.",
+      "domain": [
+        "education",
+        "oer"
+      ],
+      "priority": "high",
+      "openTasks": 1,
+      "tags": [
+        "education",
+        "good-first-deed"
+      ],
+      "definitionOfShipped": "Curriculum library adopted by schools; standards-mapped."
+    },
+    {
+      "name": "caption-commons",
+      "repo": "Elyos-Projects/caption-commons",
+      "description": "Transcripts + captions for openly-licensed educational media; CC/PD sources only; contributed upstream.",
+      "domain": [
+        "accessibility",
+        "open-culture"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "accessibility",
+        "good-first-deed"
+      ],
+      "definitionOfShipped": "Captions merged upstream into open media collections."
+    },
+    {
+      "name": "localization-for-good",
+      "repo": "Elyos-Projects/localization-for-good",
+      "description": "Open i18n string translation for nonprofit/civic OSS; native-speaker reviewed; respects upstream license/CLA.",
+      "domain": [
+        "language",
+        "software"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "language",
+        "software",
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Merged locale PRs upstream; NGO tools localized."
     }
   ]
 }
