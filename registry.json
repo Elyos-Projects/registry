@@ -563,6 +563,90 @@
         "needs-partner"
       ],
       "definitionOfShipped": "Output adopted/used by a real beneficiary partner."
+    },
+    {
+      "name": "first-aid-open",
+      "repo": "Elyos-Projects/first-aid-open",
+      "description": "first-aid-open",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "medical advisory steward, and any distribution partner are all marked **TO BE SECURED**, and **no guide may be marked `delivered`/`done` until at least one credentialed reviewer is secured and signs off.** Until then the project can do non-clinical foundation work (schema, toolin"
+    },
+    {
+      "name": "food-safety-open",
+      "repo": "Elyos-Projects/food-safety-open",
+      "description": "**food-safety-open** is an open, machine-readable knowledge base of practical **home** food-safety and storage guidance — refrigerator and freezer storage times, the \"Danger Zone\" and the two-hour rul",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Problem & beneficiaries"
+    },
+    {
+      "name": "wash-guides",
+      "repo": "Elyos-Projects/wash-guides",
+      "description": "**wash-guides** is an open, multilingual, freely-reusable body of practical **water, sanitation and hygiene (WASH)** how-tos — handwashing, household water treatment and safe storage, safe sanitation ",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "**Privacy / PII stance.** **Zero person-level data.** WASH how-tos are general public content; we collect, store, and publish **no PII** — no accounts, analytics, telemetry, cookies (beyond what a static offline renderer strictly needs), or third-party scripts. No real people, ca"
+    },
+    {
+      "name": "community-resource-maps",
+      "repo": "Elyos-Projects/community-resource-maps",
+      "description": "**community-resource-maps** is an open, region-scoped directory of essential community help — **food banks and pantries, free and charitable clinics, shelters, and support services** — that is **verif",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "maintained) until at least one named human-services org confirms the need and a region in writing. See *Problem & beneficiaries* and *Open questions*."
+    },
+    {
+      "name": "digital-literacy-seniors",
+      "repo": "Elyos-Projects/digital-literacy-seniors",
+      "description": "**digital-literacy-seniors** is an open, accessible, facilitator-ready **curriculum** that teaches older adults the practical basics of using devices and the internet — and, critically, how to recogni",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "curriculum that: (1) passes WCAG 2.2 AA + senior-usability + readability gates, (2) ships only source-cited, review-passed content within scope, (3) has **credentialed-expert sign-off on every high-risk module**, (4) collects **no PII/telemetry and carries no affiliate links**, ("
+    },
+    {
+      "name": "repair-cafe-kits",
+      "repo": "Elyos-Projects/repair-cafe-kits",
+      "description": "**repair-cafe-kits** is an openly-licensed body of practical, remixable content — plus a light, printable delivery layer — that lets **anyone, anywhere run a community repair event** and safely **tria",
+      "domain": [
+        "good-deed"
+      ],
+      "priority": "medium",
+      "openTasks": 1,
+      "tags": [
+        "needs-partner"
+      ],
+      "definitionOfShipped": "Goals and non-goals"
     }
   ]
 }
